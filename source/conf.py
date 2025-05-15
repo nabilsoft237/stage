@@ -15,11 +15,11 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../'))
+sys.path.insert(0, os.path.abspath('../../MSI'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'stagee'
+project = 'MSI'
 copyright = '2025, Ngouhouo Nabil'
 author = 'Ngouhouo Nabil'
 
